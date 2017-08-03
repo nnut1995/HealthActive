@@ -45,7 +45,7 @@ img {
 #header div a.logo img {
 	display: block;
 	margin: 0;
-	padding: -20;
+	padding: 0;
 	width: auto;
 }
 #header div ul {
@@ -66,7 +66,7 @@ img {
 }
 #header div ul li a {
 	color: #000000;
-	font-family: "Arial Black";
+	font-family: "Copperplate-Bold,db_helvethaica_x55_regular";
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 14px;
@@ -115,7 +115,7 @@ img {
 	background: none;
 	color: #000000;
 	display: block;
-	font-family: 'Arial Black';
+	font-family: 'Copperplate-Bold,db_helvethaica_x55_regular';
 	font-size: 110px;
 	font-weight: normal;
 	line-height: 96px;
@@ -138,7 +138,7 @@ img {
 	color: #000000;
 	display: block;
 	float: left;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 20px;
 	font-weight: bold;
 	height: 47px;
@@ -155,7 +155,7 @@ img {
 	color: #000000;
 	display: block;
 	float: left;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 20px;
 	font-weight: bold;
 	height: 47px;
@@ -187,7 +187,7 @@ img {
 #body.home div.body div h1 {
 	background: url(../images/bg-border1.gif) no-repeat center bottom;
 	color: #FFFFFF;
-	font-family: 'Arial Black';
+	font-family: 'Copperplate-Bold,db_helvethaica_x55_regular';
 	font-size: 40px;
 	font-weight: normal;
 	line-height: 40px;
@@ -200,7 +200,7 @@ img {
 	background: url(../images/bg-border1.gif) no-repeat center bottom;
 	color: #FFFFFF;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 25px;
 	font-weight: normal;
 	letter-spacing: 0.05em;
@@ -212,7 +212,7 @@ img {
 }
 #body.home div.body div p a {
 	color: #ffffff;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 25px;
 	font-weight: normal;
 	line-height: 48px;
@@ -227,7 +227,7 @@ img {
 	border: 5px solid #FFFFFF;
 	color: #FFFFFF;
 	display: block;
-	font-family: 'Arial Black';
+	font-family: 'Copperplate-Bold,db_helvethaica_x55_regular';
 	font-size: 20px;
 	font-weight: normal;
 	height: 47px;
@@ -256,7 +256,7 @@ img {
 #body div h1 {
 	background: url(../images/bg-border2.gif) no-repeat center bottom;
 	color: #ffffff;
-	font-family: 'Arial Black';
+	font-family: 'Copperplate-Bold,db_helvethaica_x55_regular';
 	font-size: 40px;
 	font-weight: normal;
 	line-height: 40px;
@@ -289,7 +289,7 @@ img {
 #body div p {
 	color: #FFFFFF;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 0.01em;
@@ -302,7 +302,7 @@ img {
 #body div p span {
 	color: #FFFFFF;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-style: italic;
 	font-weight: normal;
@@ -312,7 +312,7 @@ img {
 }
 #body div p span a {
 	color: #FFFFFF;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-style: italic;
 	font-weight: bold;
@@ -320,7 +320,7 @@ img {
 }
 #body div p a {
 	color: #ffffff;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	line-height: 48px;
@@ -374,7 +374,7 @@ img {
 	background: url(../images/bg-border1.gif) no-repeat center top;
 	color: #FFFFFF;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 25px;
 	font-weight: bold;
 	letter-spacing: 0.02em;
@@ -432,7 +432,7 @@ img {
 #body div ul li div h1 {
 	background: none;
 	color: #FFFFFF;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 25px;
 	font-weight: normal;
 	line-height: 30px;
@@ -444,7 +444,7 @@ img {
 }
 #body div ul li div p {
 	color: #FFFFFF;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 0.01em;
@@ -456,7 +456,7 @@ img {
 }
 #body div ul li div p a {
 	color: #ffffff;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	line-height: 48px;
@@ -472,7 +472,7 @@ img {
 	color: #FFFFFF;
 	display: block;
 	float: left;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 14px;
 	font-weight: normal;
 	height: 34px;
@@ -504,7 +504,7 @@ img {
 #body.contact div p, #body.contact div a {
 	color: #FFFFFF;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 0.01em;
@@ -516,7 +516,7 @@ img {
 }
 #body.contact div p a {
 	color: #FFFFFF;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	line-height: 48px;
@@ -530,7 +530,7 @@ img {
 #body.contact div h4 {
 	background: url(../images/bg-border1.gif) no-repeat center bottom;
 	color: #FFFFFF;
-	font-family: 'Arial Black';
+	font-family: 'Copperplate-Bold,db_helvethaica_x55_regular';
 	font-size: 30px;
 	font-weight: normal;
 	line-height: 30px;
@@ -551,7 +551,7 @@ img {
 	border: 2px solid #FFFFFF;
 	color: #FFFFFF;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 18px;
 	font-weight: normal;
 	height: 39px;
@@ -567,7 +567,7 @@ img {
 	border: 2px solid #FFFFFF;
 	color: #FFFFFF;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 18px;
 	font-weight: normal;
 	height: 87px;
@@ -586,7 +586,7 @@ img {
 	color: #FFFFFF;
 	cursor: pointer;
 	display: block;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 18px;
 	font-weight: bold;
 	height: 43px;
@@ -621,7 +621,7 @@ img {
 #body.blogsinglepost div div h1 {
 	background: none;
 	color: #FFFFFF;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 25px;
 	font-weight: bold;
 	letter-spacing: 0.03em;
@@ -633,7 +633,7 @@ img {
 }
 #body.blogsinglepost div div p {
 	color: #FFFFFF;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 0.01em;
@@ -645,7 +645,7 @@ img {
 }
 #body.blogsinglepost div div p a {
 	color: #ffffff;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 16px;
 	font-weight: normal;
 	line-height: 48px;
@@ -673,7 +673,7 @@ img {
 #footer div p {
 	color: #FFFFFF;
 	float: left;
-	font-family: Arial;
+	font-family: Copperplate-Bold,db_helvethaica_x55_regular;
 	font-size: 15px;
 	font-weight: normal;
 	line-height: 15px;
